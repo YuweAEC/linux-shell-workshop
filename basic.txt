@@ -1,0 +1,1 @@
+commands used for git terminal and to under git and github
