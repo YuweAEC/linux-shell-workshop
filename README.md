@@ -1,7 +1,4 @@
 # BASIC LINUX COMMANDS
-
- - Title
- - Introduction
- - Authors
- - Acknowledgements
-
+# VI Editor
+## Types of Linux
+## types of Shell
